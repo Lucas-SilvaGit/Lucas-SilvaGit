@@ -1,7 +1,7 @@
 ### Oi! Eu sou Lucas 👋
 
-- 🔭 Hoje eu trabalho com Front-end e Back-end
-- 🌱 Estudando Ruby on Rails
+- 🔭 Desenvolvedor Full Stack
+- 🌱 Ruby on Rails
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SilvaGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
