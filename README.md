@@ -1,7 +1,16 @@
-### Oi! Eu sou Lucas 👋
+### Oi! Eu sou <strong>Lucas</strong>! 👋
+<div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
 
-- 🔭 Desenvolvedor Full Stack
-- 🌱 Ruby on Rails
+ <p align="left"> 
+   Sou Paulista, tenho 29 anos e sou <strong>Desenvolvedor Full Stack</strong>.
+   
+   Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor back-end na <strong>Linno - Comunicação Interna</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
+   
+   Estou sempre em busca de desafios e oportunidades para aprender e crescer.
+  <h2 align="left">
+ </p>
+</div>
 
 <div>
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-SilvaGit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
