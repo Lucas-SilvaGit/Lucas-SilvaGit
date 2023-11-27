@@ -5,7 +5,7 @@
  <p align="left"> 
    Sou Paulista, tenho 29 anos e sou <strong>Desenvolvedor Full Stack</strong>.
    
-   Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor back-end na <strong>Linno - Comunicação Interna</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
+   Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor back-end na <strong>SaltFix</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
    
    Estou sempre em busca de desafios e oportunidades para aprender e crescer.
   <h2 align="left">
