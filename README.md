@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
 
  <p align="left"> 
-   Sou Paulista, tenho 29 anos e sou <strong>Desenvolvedor Full Stack</strong>.
+   Sou Paulista, tenho 30 anos e sou <strong>Desenvolvedor Backend</strong>.
    
    Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor back-end na <strong>SaltFix - Tecnologia</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
    
