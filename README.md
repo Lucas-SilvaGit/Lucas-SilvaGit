@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
 
  <p align="left"> 
-   Sou Paulista, tenho 30 anos e sou <strong>Desenvolvedor Backend</strong>.
+   Sou Paulista, tenho 31 anos e sou <strong>Desenvolvedor Backend</strong>.
    
-   Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor backend na Empresa <strong>SaltFix - Tecnologia</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
+   Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor backend na Empresa <strong>E-Inscrição</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
    
    Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
   <h2 align="left">
