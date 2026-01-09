@@ -1,10 +1,8 @@
-### Oi! Eu sou <strong>Lucas</strong>! 👋
+### 👋 Olá! Eu sou o <strong>Lucas</strong>!
 <div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
 
  <p align="left"> 
-   👋 Olá! Eu sou o Lucas.
-  
    Sou Desenvolvedor Backend com 31 anos, graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Alagoas. Atualmente atuo como desenvolvedor backend na E-Inscrição, onde todos os dias busco aprimorar minhas habilidades e entregar soluções escaláveis e de qualidade.
 
    Tenho experiência com desenvolvimento de APIs, arquitetura de software, bancos de dados relacionais e não relacionais, além de autonomia e foco em resultados.
