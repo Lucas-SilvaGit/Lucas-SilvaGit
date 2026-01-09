@@ -3,11 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250px" align="right">
 
  <p align="left"> 
-   Sou Paulista, tenho 31 anos e sou <strong>Desenvolvedor Backend</strong>.
+   👋 Olá! Eu sou o Lucas.
+  
+   Sou Desenvolvedor Backend com 31 anos, graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Alagoas. Atualmente atuo como desenvolvedor backend na E-Inscrição, onde todos os dias busco aprimorar minhas habilidades e entregar soluções escaláveis e de qualidade.
+
+   Tenho experiência com desenvolvimento de APIs, arquitetura de software, bancos de dados relacionais e não relacionais, além de autonomia e foco em resultados.
    
-   Graduado em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Alagoas, e atualmente estou atuando como desenvolvedor backend na Empresa <strong>E-Inscrição</strong>, todos os dias me empenho em aprimorar minhas habilidades como desenvolvedor.
-   
-   Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+   Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para crescer profissionalmente.
   <h2 align="left">
  </p>
 </div>
