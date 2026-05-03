@@ -18,7 +18,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-SilvaGit&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="center" alt="Lucas-Ruby" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Lucas-Rails" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
   <img align="center" alt="Lucas-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
