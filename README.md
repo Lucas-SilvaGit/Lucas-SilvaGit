@@ -18,7 +18,7 @@
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-SilvaGit&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
-## 🧰 Stack principal
+## Stack principal
 
 <p align="left">
   <!-- Backend -->
@@ -37,7 +37,7 @@
 
 ##
 
-## ⚙️ Outras tecnologias
+## Outras tecnologias
 
 <p align="left">
   <!-- Frontend -->
