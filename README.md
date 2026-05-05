@@ -14,8 +14,6 @@
 
 <div>
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-SilvaGit&layout=compact&theme=dark"/>
- 
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-SilvaGit&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
 ## Stack principal
